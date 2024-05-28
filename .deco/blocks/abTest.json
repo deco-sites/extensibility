@@ -1,0 +1,1 @@
+{"__resolveType":"site/loaders/abTest.ts","variants":[{"injectedStyle":"#my-button{\n  background-color: red;\n}","injectedScript":"document.querySelector(\"#my-button\").textContent = \"COMPRAR!\""},{}],"trackedElements":[],"name":"deco_test"}
