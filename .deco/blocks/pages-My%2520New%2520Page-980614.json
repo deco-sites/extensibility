@@ -1,1 +1,1 @@
-{"name":"My New Page","path":"/example-path","sections":[{"__resolveType":"Preview /sections/Brasileiro.tsx"}],"seo":{"__resolveType":"website/sections/Seo/SeoV2.tsx"},"__resolveType":"website/pages/Page.tsx"}
+{"name":"My New Page","path":"/example-path","sections":[{"__resolveType":"Preview /sections/Brasileiro.tsx"},{"__resolveType":"Preview site/sections/Brasileiro.tsx"}],"seo":{"__resolveType":"website/sections/Seo/SeoV2.tsx"},"__resolveType":"website/pages/Page.tsx"}
